@@ -11,7 +11,7 @@ permalink: /about.html
 
 This is Chris Chao Su's Blog on Github.
 
-You can also access my personal website at www.chrischaosu.com
+You can also access my personal website at [www.chrischaosu.com](www.chrischaosu.com)
 
 
 ### Recommended Readings
