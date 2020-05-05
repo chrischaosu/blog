@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chris Su's Blog
+name: Chris Chao Su's Blog
 
 # Short bio or description (displayed in the header)
 description: In progress
@@ -20,15 +20,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 标签
+  - name: Tags
     url: /tags.html
-  - name: 分类
+  - name: Categories
     url: /categories.html
   - name: RSS
     url: /atom.xml
-  - name: 关于
+  - name: About
     url: /about.html
 
 # Pagination
@@ -38,27 +38,27 @@ paginate: 20
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: terminus2049@protonmail.com
+  email: corwyn.su@gmail.com
   facebook:
   flickr:
-  github: TerminusBot/terminus-jekyll-template
+  github: chrischaosu
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
-  telegram: terminus_9402
+  telegram: 
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: Powered by <a href="https://github.com/TerminusBot/terminus-jekyll-template">TerminusBot</a>
+footer-text: Powered by <a href="https://github.com/chrischaosu">ChrisChaoSu</a>
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://terminusbot.github.io/
+url: https://chrischaosu.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
